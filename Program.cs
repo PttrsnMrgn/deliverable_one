@@ -54,7 +54,7 @@ class MainClass
 
             //define variable for loaves needed
             double loaves = (slices) / 28;
-            Console.WriteLine($"    {Math.Ceiling(loaves)} of bread");
+            Console.WriteLine($"    {Math.Ceiling(loaves)} loaves of bread");
 
             //define variable for pbJars needed
             double pbJar = (pb) / 32;
