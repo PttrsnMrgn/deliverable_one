@@ -81,7 +81,7 @@ class MainClass
         //print Goodbye
         Console.WriteLine("Good-Bye!");
 
-        Thread.Sleep(-1);
+        Thread.Sleep(5000);
 
     }
 }
