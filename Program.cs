@@ -76,8 +76,12 @@ class MainClass
         //define loop conditions
         while (restart == "yes" || restart == "y");
 
+        Console.WriteLine("\n");
+
         //print Goodbye
-        Console.WriteLine("GoodBye!");
+        Console.WriteLine("Good-Bye!");
+
+        Thread.Sleep(-1);
 
     }
 }
